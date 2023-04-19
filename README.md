@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ...
+
 ![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsrhksgh&show_icons=true&theme=radical)77
