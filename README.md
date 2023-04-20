@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <p>Hi👋, I`m KwanHo Shin.<p>
+  <p>I`m currently studying to become a backend developer. </p>
+  <hr />
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsrhksgh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img src="https://github-readme-stats.vercel.app/api?username=tlsrhksgh&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
